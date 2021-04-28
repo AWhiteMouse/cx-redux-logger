@@ -1,0 +1,23 @@
+{
+  "name": "@cx/redux-logger",
+  "version": "1.0.0",
+  "description": "A more simple redux logger tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWhiteMouse/cx-redux-logger.git"
+  },
+  "keywords": [
+    "redux",
+    "logger"
+  ],
+  "author": "chenxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AWhiteMouse/cx-redux-logger/issues"
+  },
+  "homepage": "https://github.com/AWhiteMouse/cx-redux-logger#readme"
+}
