@@ -1,5 +1,5 @@
 {
-  "name": "@cx/redux-logger",
+  "name": "@chenxinaaa/redux-logger",
   "version": "1.0.0",
   "description": "A more simple redux logger tool.",
   "main": "index.js",
